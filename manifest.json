@@ -1,0 +1,13 @@
+
+{
+  "manifest_version": 3,
+  "name": "Youtube Video Analyzer 2",
+  "version": "0.1.0",
+  "permissions": [
+    "scripting",
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
